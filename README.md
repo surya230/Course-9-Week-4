@@ -8,7 +8,7 @@ At the console, runApp() will launch the application, in which the user can chan
 of the histogram bins. The graph displaying the histogram of earthquake magnitudes will then be 
 automatically updated.
 
-R code is here:               
+R code is here:             https://github.com/surya230/Course-9-Week-4  
 
 Shiny App is here:           https://surya230.shinyapps.io/c9-proj3/
 
